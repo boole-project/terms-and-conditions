@@ -1,6 +1,4 @@
-Last updated: *28 of may 2021*
-
-# Terms and conditions
+**Last updated: *28 of may 2021***
 
 Boole.io is a platform (as described below), and any user is liable to the following Terms and Conditions. 
 These conditions may change in the future, and whatever is the latest version will hold from the moment it is released. 
