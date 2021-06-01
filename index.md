@@ -111,9 +111,9 @@ This privacy policy page was created at [privacypolicytemplate.net](https://priv
 
 ---
 
-<h2>End-User License Agreement (EULA) of <span class="app_name">Boole</span></h2>
+***End-User License Agreement (EULA) of Boole***
 
-<p>This End-User License Agreement ("EULA") is a legal agreement between you and <span class="company_name">Boole.io</span>. Our EULA was created by <a href="https://www.eulatemplate.com">EULA Template</a> for <span class="app_name">Boole</span>.</p></p>
+This End-User License Agreement ("EULA") is a legal agreement between you and Boole.io. 
 
 <p>This EULA agreement governs your acquisition and use of our <span class="app_name">Boole</span> software ("Software") directly from <span class="company_name">Boole.io</span> or indirectly through a <span class="company_name">Boole.io</span> authorized reseller or distributor (a "Reseller"). Our Privacy Policy was created by <a href="https://www.generateprivacypolicy.com/">the Privacy Policy Generator</a>.</p>
 
@@ -125,7 +125,7 @@ This privacy policy page was created at [privacypolicytemplate.net](https://priv
 
 <p>This EULA agreement shall apply only to the Software supplied by <span class="company_name">Boole.io</span> herewith regardless of whether other software is referred to or described herein. The terms also apply to any <span class="company_name">Boole.io</span> updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.</p>
 
-<h3>License Grant</h3>
+**License Grant**
 
 <p><span class="company_name">Boole.io</span> hereby grants you a personal, non-transferable, non-exclusive licence to use the <span class="app_name">Boole</span> software on your devices in accordance with the terms of this EULA agreement.</p>
 
@@ -141,18 +141,18 @@ This privacy policy page was created at [privacypolicytemplate.net](https://priv
 <li>use the Software for any purpose that <span class="company_name">Boole.io</span> considers is a breach of this EULA agreement</li>
 </ul>
 
-<h3>Intellectual Property and Ownership</h3>
+**Intellectual Property and Ownership**
 
 <p><span class="company_name">Boole.io</span> shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of <span class="company_name">Boole.io</span>.</p>
 
 <p><span class="company_name">Boole.io</span> reserves the right to grant licences to use the Software to third parties.</p>
 
-<h3>Termination</h3>
+**Termination**
 
 <p>This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to <span class="company_name">Boole.io</span>.</p>
 
 <p>It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.</p>
 
-<h3>Governing Law</h3>
+**Governing Law**
 
 <p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of <span class="country">ch</span>.</p>
